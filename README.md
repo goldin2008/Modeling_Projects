@@ -8,6 +8,10 @@ http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
 
 https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/
 
+>Neural Network Projects with Python
+
+https://github.com/PacktPublishing/Neural-Network-Projects-with-Python
+
 >How to delete condo envs
 
 ```
