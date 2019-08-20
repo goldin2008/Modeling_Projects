@@ -1,5 +1,10 @@
 # modeling-project
 
+1. Amazon Review Classification
+2. NYC Taxi Fare
+3. Credit Card Transaction Fraud
+4. Journal Text Classification
+
 >GitHub Tricks: Upload Images & Live Demos
 
 http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
