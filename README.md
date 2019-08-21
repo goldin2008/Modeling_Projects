@@ -3,7 +3,7 @@
 1. Amazon Review Classification
 2. NYC Taxi Fare
 3. Credit Card Transaction Fraud
-4. Journal Text Classification
+4. Journal Paper Classification
 
 
 >GitHub Tricks: Upload Images & Live Demos
