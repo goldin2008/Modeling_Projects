@@ -8,7 +8,13 @@
 ```
 
 ```
+The data has been cleaned up somewhat; for example:
+
+The dataset is comprised of only English reviews.
 All text has been converted to lowercase.
+There is white space around punctuation like periods, commas, and brackets.
+Text has been split into one sentence per line.
+
 ```
 
 
