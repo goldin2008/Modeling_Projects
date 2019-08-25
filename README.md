@@ -35,19 +35,25 @@ After the model is developed, we will need to make predictions
 on new input data. This will require all of the same data preparation to 
 be performed on those new data as is performed on the training data for the 
 model.
-
 We will ensure that this constraint is built into the evaluation of our models 
 by splitting the training and test datasets prior to any data preparation. This 
 means that any knowledge in the data in the test set that could help us better 
 prepare the data (e.g. the words used) is unavailable in the preparation of 
 data used for training the model. 
-
 That being said, we will use the last 100 positive reviews and the last 100 
 negative reviews as a test set (100 reviews) and the remaining 1,800 reviews as 
 the training dataset. 
-
 This is a 90% train, 10% split of the data.
+```
 
+```
+Loading and Cleaning Reviews
+
+Split tokens on white space.
+Remove all punctuation from words.
+Remove all words that are not purely comprised of alphabetical characters.
+Remove all words that are known stop words.
+Remove all words that have a length <= 1 character.
 ```
 
 
