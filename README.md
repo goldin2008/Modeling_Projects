@@ -15,7 +15,10 @@ All text has been converted to lowercase.
 There is white space around punctuation like periods, commas, and brackets.
 Text has been split into one sentence per line.
 
-After unzipping the file, you will have a directory called “txt_sentoken” with two sub-directories containing the text “neg” and “pos” for negative and positive reviews. Reviews are stored one per file with a naming convention cv000 to cv999 for each neg and pos.
+After unzipping the file, you will have a directory called “txt_sentoken” with 
+two sub-directories containing the text “neg” and “pos” for negative and 
+positive reviews. Reviews are stored one per file with a naming convention 
+cv000 to cv999 for each neg and pos. 
 
 Data Preparation
 In this section, we will look at 3 things:
@@ -23,6 +26,27 @@ In this section, we will look at 3 things:
 Separation of data into training and test sets.
 Loading and cleaning the data to remove punctuation and numbers.
 Prepare all reviews and save to file.
+```
+
+```
+Split into Train and Test Sets
+
+After the model is developed, we will need to make predictions 
+on new input data. This will require all of the same data preparation to 
+be performed on those new data as is performed on the training data for the 
+model.
+
+We will ensure that this constraint is built into the evaluation of our models 
+by splitting the training and test datasets prior to any data preparation. This 
+means that any knowledge in the data in the test set that could help us better 
+prepare the data (e.g. the words used) is unavailable in the preparation of 
+data used for training the model. 
+
+That being said, we will use the last 100 positive reviews and the last 100 
+negative reviews as a test set (100 reviews) and the remaining 1,800 reviews as 
+the training dataset. 
+
+This is a 90% train, 10% split of the data.
 
 ```
 
