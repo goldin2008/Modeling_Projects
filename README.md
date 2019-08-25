@@ -7,6 +7,10 @@
 4. Journal Paper Classification
 ```
 
+```
+All text has been converted to lowercase.
+```
+
 
 >GitHub Tricks: Upload Images & Live Demos
 
