@@ -69,6 +69,10 @@ https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/
 
 https://github.com/PacktPublishing/Neural-Network-Projects-with-Python
 
+>Confusion Matrix
+
+https://www.python-course.eu/confusion_matrix.php
+
 >How to delete condo envs
 
 ```
