@@ -6,8 +6,8 @@
 3. Credit Card Transaction Fraud
 4. Journal Paper Classification
 5. EML
-
 6. Fishing Email Detection
+
 ```
 
 ```
