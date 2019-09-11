@@ -7,7 +7,6 @@
 4. Journal Paper Classification
 5. EML
 6. Fishing Email Detection
-
 ```
 
 
@@ -60,6 +59,11 @@ Remove all words that are known stop words.
 Remove all words that have a length <= 1 character.
 ```
 
+```
+Multichannel CNN Model for Text Classification
+
+
+```
 
 >GitHub Tricks: Upload Images & Live Demos
 
