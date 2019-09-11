@@ -101,3 +101,7 @@ $ cd modeling_project
 
 $ python setup.py develop
 ```
+
+>Python Programming
+
+http://sandbox.mc.edu/~bennet/python/code/
