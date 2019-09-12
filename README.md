@@ -62,7 +62,7 @@ Remove all words that have a length <= 1 character.
 ```
 Multichannel CNN Model for Text Classification
 
-
+After loading dataset, I fit a Keras Tokenizer on the training dataset. I will use this tokenizer to both define the vocabulary for the Embedding layer and encode the instances as integers.
 ```
 
 >GitHub Tricks: Upload Images & Live Demos
