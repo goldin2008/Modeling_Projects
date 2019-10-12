@@ -7,9 +7,13 @@
 4. Journal Paper Classification
 5. EML
 6. Fishing Email Detection
-
 ```
 
+```
+Kafka:
+https://www.infoq.com/articles/apache-kafka/
+
+```
 
 ```
 The data has been cleaned up somewhat; for example:
