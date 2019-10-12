@@ -22,6 +22,7 @@ https://github.com/jubins/Spark-And-MLlib-Projects
 https://github.com/AlexIoannides/pyspark-example-project
 https://github.com/HyukjinKwon/pyspark-project-example
 https://github.com/mgiridhar/PySpark-Projects
+https://spark.apache.org/docs/latest/quick-start.html
 ```
 ```
 The data has been cleaned up somewhat; for example:
