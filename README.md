@@ -23,6 +23,7 @@ https://github.com/AlexIoannides/pyspark-example-project
 https://github.com/HyukjinKwon/pyspark-project-example
 https://github.com/mgiridhar/PySpark-Projects
 https://spark.apache.org/docs/latest/quick-start.html
+https://codeday.me/bug/20190410/933667.html
 ```
 ```
 The data has been cleaned up somewhat; for example:
