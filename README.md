@@ -12,6 +12,8 @@
 ```
 Kafka:
 https://www.infoq.com/articles/apache-kafka/
+https://www.confluent.io/blog/event-streaming-platform-1
+https://www.youtube.com/watch?v=mAgmwHHR6xY
 
 ```
 
