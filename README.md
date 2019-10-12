@@ -8,7 +8,6 @@
 5. EML
 6. Fishing Email Detection
 ```
-
 ```
 Kafka:
 https://www.infoq.com/articles/apache-kafka/
@@ -16,7 +15,14 @@ https://www.confluent.io/blog/event-streaming-platform-1
 https://www.youtube.com/watch?v=mAgmwHHR6xY
 http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html
 ```
-
+```
+Pyspark:
+https://www.guru99.com/pyspark-tutorial.html
+https://github.com/jubins/Spark-And-MLlib-Projects
+https://github.com/AlexIoannides/pyspark-example-project
+https://github.com/HyukjinKwon/pyspark-project-example
+https://github.com/mgiridhar/PySpark-Projects
+```
 ```
 The data has been cleaned up somewhat; for example:
 
