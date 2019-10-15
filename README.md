@@ -63,6 +63,15 @@ The preprocessor normalizes commands in order to reduce the probability of
 a data leakage problem that, in our setting, may result from using
 almost-identical commands for training the model
 and for validating it.
+Our dataset is very imbalanced, since the number
+of clean commands is an order of magnitude larger
+than that of malicious commands. In order to prevent
+model bias towards the larger class, we constructed
+the training set by duplicating each malicious command used for training 8 times so that the ratio of
+clean/malicious training commands is 1:1. We preferred to handle imbalance this way rather than by
+using under-sampling in order to avoid the risk of
+over-fitting, which may result when a neural network
+is trained using a small number of examples.
 ```
 
 ```
