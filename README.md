@@ -41,12 +41,10 @@ CloudFormation:
 
 ```
 The data has been cleaned up somewhat; for example:
-
 The dataset is comprised of only English reviews.
 All text has been converted to lowercase.
 There is white space around punctuation like periods, commas, and brackets.
 Text has been split into one sentence per line.
-
 After unzipping the file, you will have a directory called “txt_sentoken” with 
 two sub-directories containing the text “neg” and “pos” for negative and 
 positive reviews. Reviews are stored one per file with a naming convention 
