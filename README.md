@@ -54,15 +54,17 @@ cv000 to cv999 for each neg and pos.
 
 Data Preparation
 In this section, we will look at 3 things:
-
 Separation of data into training and test sets.
 Loading and cleaning the data to remove punctuation and numbers.
 Prepare all reviews and save to file.
 
+Duplicate Data
 The preprocessor normalizes commands in order to reduce the probability of 
 a data leakage problem that, in our setting, may result from using
 almost-identical commands for training the model
 and for validating it.
+
+Imbalanced Data
 Our dataset is very imbalanced, since the number
 of clean commands is an order of magnitude larger
 than that of malicious commands. In order to prevent
