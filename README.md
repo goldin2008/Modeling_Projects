@@ -73,7 +73,7 @@ using under-sampling in order to avoid the risk of
 over-fitting, which may result when a neural network
 is trained using a small number of examples.
 
-Afeter Work
+Monitering
 PowerShell commands can be executed from memory,
 hence identifying malicious commands and blocking
 them prior to their execution is, in general, impractical. We therefore estimate that the most plausible deployment scenario of our detector would be as
@@ -84,6 +84,30 @@ trigger further investigation. In corporate networks,
 this type of alerts is typically sent to a security information and event management (SIEM) system and
 presented on a dashboard monitored by the organization’s CISO (chief information security officer) team.
 
+AfterWork
+There are several ways in which this work can be
+extended. First, while we have implemented and
+evaluated several deep-learning and traditional NLP
+based classifiers, the design space of both types of
+models is very large and a more comprehensive evaluation of additional techniques and architectures may
+yield even better detection results.
+Secondly, in this work we targeted the detection of
+individual PowerShell commands that are executed
+via the command-line. An interesting direction for
+future work is to devise detectors for complete PowerShell scripts rather than individual commands. Such
+scripts are typically longer than single commands and
+their structure is richer, as they generally contain
+multiple commands, functions and definitions. Effective detection of malicious scripts would probably
+require significantly different input encoding and/or
+detection models than those we used in this work.
+Another interesting avenue for future work is to devise detectors that leverage the information collected
+by Microsoft’s AntiMalware Scan Interface (AMSI)
+[18]. As mentioned previously, AMSI is able to record
+PowerShell commands (generated both statically and
+dynamically) that are executed in run-time, so detectors may have more data to operate on. However,
+although AMSI may be less vulnerable to many of
+the obfuscation methods described in Section 2.1.1,
+attackers may be able to find new ways of camouflaging the AMSI traces of their malicious commands.
 ```
 
 ```
