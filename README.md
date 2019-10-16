@@ -72,6 +72,18 @@ clean/malicious training commands is 1:1. We preferred to handle imbalance this 
 using under-sampling in order to avoid the risk of
 over-fitting, which may result when a neural network
 is trained using a small number of examples.
+
+Afeter Work
+PowerShell commands can be executed from memory,
+hence identifying malicious commands and blocking
+them prior to their execution is, in general, impractical. We therefore estimate that the most plausible deployment scenario of our detector would be as
+a post-breach tool. In such a deployment scenario,
+PowerShell commands that execute will be recorded
+and then classified by our detector. Commands classified as malicious would generate alerts that should
+trigger further investigation. In corporate networks,
+this type of alerts is typically sent to a security information and event management (SIEM) system and
+presented on a dashboard monitored by the organization’s CISO (chief information security officer) team.
+
 ```
 
 ```
