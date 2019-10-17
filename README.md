@@ -46,25 +46,47 @@ Building a system that makes data usable becomes a monumental challenge for data
 
 Here’s a brief glossary to describe data engineering and some common practices and technologies in the data engineering ecosystem.
 
-Data Engineering: the task of building infrastructure and process for ingesting, processing, and aggregating data so that it can be displayed to users or made available to data scientists.
+Data Engineering: 
+the task of building infrastructure and process for ingesting, processing, and 
+aggregating data so that it can be displayed to users or made available to data scientists.
 
-Data Science: the practice of using statistics, machine learning, and other tools to analyze data to discover trends and truths that can be used to provide business intelligence.
+Data Science: 
+the practice of using statistics, machine learning, and other tools to analyze data 
+to discover trends and truths that can be used to provide business intelligence.
 
-Batch Processing: processing large amounts of data at once. This is acceptable for smaller amounts of data and can be simpler in terms of engineering and deployment. Some batch processes can also be useful for “recomputing the world” when you want to analyze existing data in a new way.
+Batch Processing: 
+processing large amounts of data at once. This is acceptable for smaller amounts 
+of data and can be simpler in terms of engineering and deployment. Some batch processes 
+can also be useful for “recomputing the world” when you want to analyze existing data in a new way.
 
-Data Streaming: processing data in small chunks, one at a time, rather than processing all data at once. Streaming is necessary for processing infinite event streams. It’s also useful for processing large amounts of data, because it prevents memory overflows during processing and makes it easier to process data in a distributed manner or real-time manner.
+Data Streaming: 
+processing data in small chunks, one at a time, rather than processing all data at once. 
+Streaming is necessary for processing infinite event streams. It’s also useful for processing 
+large amounts of data, because it prevents memory overflows during processing and makes it 
+easier to process data in a distributed manner or real-time manner.
 
-Real-time: analyzing data and delivering results simultaneously so that stream output is always visible. For example, real-time analytics will mean that the system is constantly processing events (clicks, purchases, etc) and displaying the latest results in a user interface.
+Real-time: 
+analyzing data and delivering results simultaneously so that stream output is always visible. 
+For example, real-time analytics will mean that the system is constantly processing 
+events (clicks, purchases, etc) and displaying the latest results in a user interface.
 
-Distributed Data Processing: breaking up data into partitions so that large amounts of data can be processed by many machines simultaneously.
+Distributed Data Processing: 
+breaking up data into partitions so that large amounts of data can be processed by many machines simultaneously.
 
-Cluster: several computers (or virtual machines) grouped together to perform a single task.
+Cluster: 
+several computers (or virtual machines) grouped together to perform a single task.
 
-Scala: a programming language (like Ruby, Python, or JavaScript) which is fast and has become popular for data-focused tasks. Scala runs on the Java Virtual Machine, which is a high-performance engine for running languages like Scala that compile into bytecode.
+Scala: 
+a programming language (like Ruby, Python, or JavaScript) which is fast and has 
+become popular for data-focused tasks. Scala runs on the Java Virtual Machine, which 
+is a high-performance engine for running languages like Scala that compile into bytecode.
 
-Spark: a distributed computing engine for big data and data streams. Spark is a Scala-focused framework for data engineering and data science.
+Spark: 
+a distributed computing engine for big data and data streams. Spark is a Scala-focused 
+framework for data engineering and data science.
 
-Kafka: a distributed commit log for data streams. Many of the large data systems deployed today use Kafka.
+Kafka: 
+a distributed commit log for data streams. Many of the large data systems deployed today use Kafka.
 ```
 https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactive-map-b682627c2534
 
