@@ -38,6 +38,10 @@ CloudFormation:
 
 ```
 
+```
+Data Engineering Pipeline:
+What is often neglected is the amount of engineering required to make that data accessible. Simply using SQL is no longer an option for large, unstructured, or real-time data. Building a system that makes data usable becomes a monumental challenge for data engineers.
+```
 
 ```
 The data has been cleaned up somewhat; for example:
