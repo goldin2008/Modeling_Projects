@@ -30,7 +30,13 @@ https://codeday.me/bug/20190410/933667.html
 
 ```
 EMR:
+In a sentence, AWS Elastic MapReduce is a managed service for computing clusters.
 
+EMR provides:
+Managed clusters (so we don't need to install Spark and configure our clusters manually)
+A variety of applications (Spark, Hadoop, Hive, Pig, etc.)
+Easy integration with S3
+Painless migration from Chef/Ansible/etc.-based clusters
 ```
 
 ```
