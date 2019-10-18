@@ -87,6 +87,12 @@ framework for data engineering and data science.
 
 Kafka: 
 a distributed commit log for data streams. Many of the large data systems deployed today use Kafka.
+
+Within the Data Science universe, there is always overlap between the three professions. 
+Data Engineers are often responsible for simple Data Analysis projects or for transforming 
+algorithms written by Data Scientists into more robust formats that can be run in parallel. 
+Data Analysts and Data Scientists need to learn basic Data Engineering skills, especially 
+if they’re working in an early-stage startup where engineering resources are scarce.
 ```
 https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactive-map-b682627c2534
 https://blog.insightdatascience.com/ingestion-comparison-kafka-vs-kinesis-4c7f5193a7cd
