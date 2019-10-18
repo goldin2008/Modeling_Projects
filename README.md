@@ -89,6 +89,7 @@ Kafka:
 a distributed commit log for data streams. Many of the large data systems deployed today use Kafka.
 ```
 https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactive-map-b682627c2534
+https://blog.insightdatascience.com/ingestion-comparison-kafka-vs-kinesis-4c7f5193a7cd
 
 ```
 The data has been cleaned up somewhat; for example:
