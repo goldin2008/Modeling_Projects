@@ -37,6 +37,14 @@ Managed clusters (so we don't need to install Spark and configure our clusters m
 A variety of applications (Spark, Hadoop, Hive, Pig, etc.)
 Easy integration with S3
 Painless migration from Chef/Ansible/etc.-based clusters
+
+An EMR cluster is a managed cluster consisting of master, core, and task nodes. 
+The nodes themselves are EC2 instances.
+When a cluster is created, the first thing it does is run bootstrap actions, 
+which are scripts that install the Spark, Hadoop, etc. applications and perform 
+other configurations. We can specify additional bootstrap actions (ISRM, Sphinx, etc.).
+EMR runs jobs called steps. Steps are most commonly Spark jobs, but can also be any 
+of the other applications available on the cluster, or shell scripts.
 ```
 
 ```
