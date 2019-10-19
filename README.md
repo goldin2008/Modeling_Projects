@@ -47,6 +47,7 @@ other configurations. We can specify additional bootstrap actions (ISRM, Sphinx,
 EMR runs jobs called steps. Steps are most commonly Spark jobs, but can also be any 
 of the other applications available on the cluster, or shell scripts.
 ```
+https://docs.aws.amazon.com/en_pv/emr/latest/ManagementGuide/emr-overview.html
 
 ```
 CloudFormation:
