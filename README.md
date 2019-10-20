@@ -29,6 +29,14 @@ https://codeday.me/bug/20190410/933667.html
 ```
 
 ```
+The cloud by allowing for scaling up and down ressources made it much easier to 
+handle high peak batch jobs typical in data engineering. This however came at 
+the cost of having to manage infrastructure and the scaling process through code.
+
+```
+https://medium.com/analytics-and-data/on-the-evolution-of-data-engineering-c5e56d273e37
+
+```
 EMR:
 In a sentence, AWS Elastic MapReduce is a managed service for computing clusters.
 
