@@ -120,11 +120,8 @@ Data Analysts and Data Scientists need to learn basic Data Engineering skills, e
 if they’re working in an early-stage startup where engineering resources are scarce.
 ```
 https://www.oreilly.com/ideas/data-engineering-a-quick-and-simple-definition
-
 https://www.oreilly.com/radar/data-engineers-vs-data-scientists/
-
 https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactive-map-b682627c2534
-
 https://blog.insightdatascience.com/ingestion-comparison-kafka-vs-kinesis-4c7f5193a7cd
 
 ```
