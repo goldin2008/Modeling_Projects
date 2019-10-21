@@ -127,6 +127,8 @@ https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactiv
 
 https://blog.insightdatascience.com/ingestion-comparison-kafka-vs-kinesis-4c7f5193a7cd
 
+http://www.oreilly.com.cn/ideas/?p=2138
+
 ```
 The data has been cleaned up somewhat; for example:
 The dataset is comprised of only English reviews.
