@@ -8,6 +8,10 @@
 5. EML
 6. Fishing Email Detection
 ```
+To Read
+http://www.oreilly.com.cn/ideas/?p=1889
+
+
 
 ```
 Kafka:
