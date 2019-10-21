@@ -138,6 +138,8 @@ https://www.oreilly.com/ideas/data-engineering-a-quick-and-simple-definition
 
 https://www.oreilly.com/radar/data-engineers-vs-data-scientists/
 
+https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer
+
 https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactive-map-b682627c2534
 
 https://blog.insightdatascience.com/ingestion-comparison-kafka-vs-kinesis-4c7f5193a7cd
