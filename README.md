@@ -64,6 +64,12 @@ CloudFormation:
 
 ```
 Data Engineer:
+A holistic understanding of data is also important. “We need [data engineers] to 
+know how the entire big data operation works and want [them] to look for ways to 
+make it better,” says Blue. Sometimes, he adds, that can mean thinking and acting 
+like an engineer and sometimes that can mean thinking more like a traditional 
+product manager.
+
 
 What is often neglected is the amount of engineering required to make that data accessible. 
 Simply using SQL is no longer an option for large, unstructured, or real-time data. 
