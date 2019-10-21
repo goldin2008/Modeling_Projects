@@ -15,6 +15,13 @@ http://www.oreilly.com.cn/ideas/?p=1889
 
 http://www.oreilly.com.cn/ideas/?p=945
 
+http://www.oreilly.com.cn/ideas/?p=1228
+
+https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+
+https://arxiv.org/abs/1703.04730
+
+
 
 
 ```
