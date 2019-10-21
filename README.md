@@ -23,6 +23,7 @@ https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnos
 
 https://arxiv.org/abs/1703.04730
 
+https://www.oreilly.com/radar/what-are-machine-learning-engineers/
 
 
 
