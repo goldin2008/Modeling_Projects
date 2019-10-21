@@ -70,6 +70,15 @@ make it better,” says Blue. Sometimes, he adds, that can mean thinking and act
 like an engineer and sometimes that can mean thinking more like a traditional 
 product manager.
 
+The move to the cloud had multiple implication for data engineers. The cloud abstracted 
+physical limitations, for most users it meant that storage and compute was essentially 
+infinite provided one can pay for it. Optimization previously done to keep business 
+running waiting for new servers to be installed or upgraded needed not to be done anymore. 
+So was the work previously done tasks scheduling to allocate the load across time due to 
+ressource constraint. The cloud by allowing for scaling up and down ressources made it 
+much easier to handle high peak batch jobs typical in data engineering. This however came 
+at the cost of having to manage infrastructure and the scaling process through code.
+
 
 What is often neglected is the amount of engineering required to make that data accessible. 
 Simply using SQL is no longer an option for large, unstructured, or real-time data. 
