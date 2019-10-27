@@ -27,7 +27,12 @@ https://www.oreilly.com/radar/what-are-machine-learning-engineers/
 
 ```
 Data Warehousing
-With the enterprise adoption of cloud-based technology, the data warehousing landscape has dramatically changed in recent years. Now, teams are able to obtain high performance, simple deployment, near infinite scaling, and easy administration at a fraction of the cost of on-premises solutions. At Capital One, teams are rapidly transitioning to cloud-based solutions in conjunction with the data transformation. This learning path aims to equip associates with an overview of data warehousing and guide learners to which platform best supports their business need.
+With the enterprise adoption of cloud-based technology, the data warehousing landscape has 
+dramatically changed in recent years. Now, teams are able to obtain high performance, simple 
+deployment, near infinite scaling, and easy administration at a fraction of the cost of 
+on-premises solutions. At Capital One, teams are rapidly transitioning to cloud-based solutions 
+in conjunction with the data transformation. This learning path aims to equip associates with 
+an overview of data warehousing and guide learners to which platform best supports their business need.
 
 ```
 
