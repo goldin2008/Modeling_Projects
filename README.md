@@ -34,19 +34,20 @@ practitioners with a more holistic understanding of implementing sounds data sol
 
 Learning Objectives
 Explore supporting skills that are required to implement full-stack data engineering or data science solutions.
-Acknowledge how a solid foundation in programming and software engineering is essential for being a successful data or practitioner.
-Recognize the foundational skills needed to help technical associates convey their outcomes from the data to executives or non-technical audiences.
-Identify how Capital One leverages the cloud to lower cost, increase security, and solve problems faster.
-See how DevOps practices and tools can increase an organization’s ability to deliver applications and services at high velocity.
-Distinguish between the high-level differences between SQL and NoSQL platforms.
-
-Making data mean more through storytelling
-
+Acknowledge how a solid foundation in programming and software engineering is essential for being a successful data or practitioner. Recognize the foundational skills needed to help technical associates convey their outcomes from the data to executives or non-technical audiences. Identify how Capital One leverages the cloud to lower cost, increase security, and solve problems faster. See how DevOps practices and tools can increase an organization’s ability to deliver applications and services at high velocity. Distinguish between the high-level differences between SQL and NoSQL platforms.
 
 Making data mean more through storytelling
 Storytelling is the social and cultural activity of sharing stories, often with improvisation, 
 theatrics, or embellishment and it becomes a key part while working with range of Data sets. 
 This skill will help the technical folks to convey their observations and research from the data to the executives.
+
+What is DevOps?
+DevOps is the combination of cultural philosophies, practices, and tools that increases an 
+organization’s ability to deliver applications and services at high velocity; evolving and 
+improving products at a faster pace than organizations using traditional software development 
+and infrastructure management processes.DevOps is about removing the barriers between two 
+traditionally siloed teams, development and operations. With DevOps, the teams can work together 
+to optimize the productivity of developers and the reliability of operations.
 ```
 
 ```
