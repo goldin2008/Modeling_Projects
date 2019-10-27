@@ -26,6 +26,14 @@ https://arxiv.org/abs/1703.04730
 https://www.oreilly.com/radar/what-are-machine-learning-engineers/
 
 ```
+Supporting Skills for Data Practitioners
+Capital One software teams leverage a full suite of tools from cloud-based infrastructure to 
+DevOps for continuous integration and continuous development. This learning path will provide 
+an overview of key skills that augment the core data competencies to provide our aspiring data 
+practitioners with a more holistic understanding of implementing sounds data solutions.
+```
+
+```
 Data Warehousing
 With the enterprise adoption of cloud-based technology, the data warehousing landscape has 
 dramatically changed in recent years. Now, teams are able to obtain high performance, simple 
