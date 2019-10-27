@@ -40,6 +40,13 @@ Identify how Capital One leverages the cloud to lower cost, increase security, a
 See how DevOps practices and tools can increase an organization’s ability to deliver applications and services at high velocity.
 Distinguish between the high-level differences between SQL and NoSQL platforms.
 
+Making data mean more through storytelling
+
+
+Making data mean more through storytelling
+Storytelling is the social and cultural activity of sharing stories, often with improvisation, 
+theatrics, or embellishment and it becomes a key part while working with range of Data sets. 
+This skill will help the technical folks to convey their observations and research from the data to the executives.
 ```
 
 ```
