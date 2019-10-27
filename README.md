@@ -33,7 +33,6 @@ an overview of key skills that augment the core data competencies to provide our
 practitioners with a more holistic understanding of implementing sounds data solutions.
 
 Learning Objectives
-
 Explore supporting skills that are required to implement full-stack data engineering or data science solutions.
 Acknowledge how a solid foundation in programming and software engineering is essential for being a successful data or practitioner.
 Recognize the foundational skills needed to help technical associates convey their outcomes from the data to executives or non-technical audiences.
