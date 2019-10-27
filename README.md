@@ -25,7 +25,10 @@ https://arxiv.org/abs/1703.04730
 
 https://www.oreilly.com/radar/what-are-machine-learning-engineers/
 
+```
+Data Warehousing
 
+```
 
 ```
 Kafka:
