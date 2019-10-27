@@ -31,6 +31,16 @@ Capital One software teams leverage a full suite of tools from cloud-based infra
 DevOps for continuous integration and continuous development. This learning path will provide 
 an overview of key skills that augment the core data competencies to provide our aspiring data 
 practitioners with a more holistic understanding of implementing sounds data solutions.
+
+Learning Objectives
+
+Explore supporting skills that are required to implement full-stack data engineering or data science solutions.
+Acknowledge how a solid foundation in programming and software engineering is essential for being a successful data or practitioner.
+Recognize the foundational skills needed to help technical associates convey their outcomes from the data to executives or non-technical audiences.
+Identify how Capital One leverages the cloud to lower cost, increase security, and solve problems faster.
+See how DevOps practices and tools can increase an organization’s ability to deliver applications and services at high velocity.
+Distinguish between the high-level differences between SQL and NoSQL platforms.
+
 ```
 
 ```
