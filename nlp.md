@@ -2,6 +2,8 @@
 
 https://arxiv.org/abs/1810.09591
 
+https://www.shangyexinzhi.com/article/details/id-146242/
+
 > BERT
 
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
