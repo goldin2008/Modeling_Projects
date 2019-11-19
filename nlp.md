@@ -10,6 +10,24 @@ https://github.com/hanxiao/bert-as-service
 
 https://www.tensorflow.org/hub
 
+https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb
+
+https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04
+
+https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/
+
+https://github.com/google-research/bert
+
+https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7
+
+https://pypi.org/project/keras-bert/
+
+https://towardsdatascience.com/how-to-do-text-binary-classification-with-bert-f1348a25d905
+
+https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
+
+
+
 > GPT2
 
 https://github.com/rish-16/gpt2client
