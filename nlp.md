@@ -6,6 +6,8 @@ https://www.shangyexinzhi.com/article/details/id-146242/
 
 > BERT
 
+https://www.jiqizhixin.com/articles/2019-11-05-2
+
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
 
 https://github.com/hanxiao/bert-as-service
