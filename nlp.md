@@ -4,6 +4,22 @@ https://arxiv.org/abs/1810.09591
 
 https://www.shangyexinzhi.com/article/details/id-146242/
 
+> How to Explain the Prediction of a Machine Learning Model?
+
+https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html
+
+> Generalized Language Models
+
+https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
+
+> An Overview of Deep Learning for Curious People
+
+https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html
+
+> Learning Word Embedding
+
+https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
+
 > BERT
 
 https://www.jiqizhixin.com/articles/2019-11-05-2
