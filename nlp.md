@@ -1,3 +1,7 @@
+> NLP
+
+http://www.wildml.com/deep-learning-glossary/
+
 > Applying Deep Learning To Airbnb Search
 
 https://arxiv.org/abs/1810.09591
