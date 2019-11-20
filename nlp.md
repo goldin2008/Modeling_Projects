@@ -1,3 +1,7 @@
+> Node2Vec
+
+https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef
+
 > NLP
 
 http://www.wildml.com/deep-learning-glossary/
