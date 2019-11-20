@@ -50,6 +50,8 @@ https://colab.research.google.com/github/google-research/bert/blob/master/predic
 
 > GPT2
 
+https://github.com/Morizeyao/GPT2-Chinese
+
 https://github.com/rish-16/gpt2client
 
 Language Models are Unsupervised Multitask Learners
