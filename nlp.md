@@ -30,6 +30,18 @@ https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
 
 > BERT
 
+https://plmsmile.github.io/2018/12/15/52-bert/
+
+https://www.jianshu.com/p/109505d2947a
+
+https://segmentfault.com/a/1190000017363096
+
+http://www.bdpt.net/cn/2019/01/22/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF-%E4%BB%8Eattentiontransformerelmogpt%E5%88%B0bert/
+
+https://www.jiqizhixin.com/articles/2018-11-23-15
+
+
+
 https://www.jiqizhixin.com/articles/2019-11-05-2
 
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
