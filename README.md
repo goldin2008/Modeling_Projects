@@ -9,6 +9,13 @@
 6. Fishing Email Detection
 ```
 
+```
+Shell
+
+http://linuxcommand.org/lc3_lts0010.php
+
+```
+
 To Read
 
 http://www.oreilly.com.cn/ideas/?p=1311
