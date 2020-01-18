@@ -1,4 +1,43 @@
 # modeling-project
+```
+Travel
+
+France
+Paris 12/29/2019 - 01/04/2020  7days
+
+Germany
+Leipzig 01/05/2020  1day
+Berlin 01/06/2020- 01/07/2020 2day
+
+Austria
+Vienna 01/08/2020-01/09/2020 2day
+
+France
+Paris 01/10/2020 - 01/12/2020  3days
+
+Belgium
+Brussels 01/13/2020 1day
+
+Germany
+Cologne 01/13/2020
+
+Germany
+Munich 01/14/2020 1day
+
+Switzerland
+Zurich 01/15/2020 1day
+
+Italy
+Milan 01/15/2020
+Florence 01/16/2020 1day
+Rome 01/16/2020
+
+Greece
+Athens 01/17/2020 - 01/18/2020  2days
+
+Hungary
+Budapest 01/19/2020 - 01/20/2020  2days
+```
 
 ```
 1. Amazon Review Classification
