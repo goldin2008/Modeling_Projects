@@ -49,6 +49,12 @@ Budapest 01/19/2020 - 01/20/2020  2days
 ```
 
 ```
+Big Data
+
+
+```
+
+```
 Shell
 
 http://linuxcommand.org/lc3_lts0010.php
