@@ -64,6 +64,8 @@ https://www.switchup.org/bootcamps/nyc-data-science-academy
 
 http://www.bitbootcamp.com/Hadoop_PT.html
 
+https://www.chinahadoop.cn/jobclass
+
 
 
 ```
