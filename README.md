@@ -1,6 +1,5 @@
 # modeling-project
 ```
-
 Travel
 
 France
