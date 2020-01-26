@@ -60,6 +60,10 @@ https://www.laioffer.com/zh/course/cloud-computing/
 
 https://www.jiuzhang.com/course/43/
 
+https://www.switchup.org/bootcamps/nyc-data-science-academy
+
+http://www.bitbootcamp.com/Hadoop_PT.html
+
 
 
 ```
