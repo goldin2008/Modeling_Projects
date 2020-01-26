@@ -49,10 +49,9 @@ Budapest 01/19/2020 - 01/20/2020  2days
 ```
 ```
 Data Pipeline
+```
 https://edu.51cto.com/
 
-
-```
 
 ```
 Big Data
