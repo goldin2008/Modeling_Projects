@@ -54,6 +54,13 @@ https://edu.51cto.com/
 
 https://ke.qq.com/course/list/AWS?page=1
 
+https://www.dataapplab.com/intl/
+
+https://www.laioffer.com/zh/course/cloud-computing/
+
+https://www.jiuzhang.com/course/43/
+
+
 
 ```
 Big Data
