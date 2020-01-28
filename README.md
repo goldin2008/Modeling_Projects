@@ -68,6 +68,8 @@ https://www.chinahadoop.cn/jobclass
 
 https://www.laioffer.com/zh/course/ai-and-data-engineering/
 
+https://dbaplus.cn/news-134-1863-1.html
+
 
 
 ```
