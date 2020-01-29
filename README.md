@@ -70,6 +70,8 @@ https://www.laioffer.com/zh/course/ai-and-data-engineering/
 
 https://dbaplus.cn/news-134-1863-1.html
 
+https://zhuanlan.zhihu.com/p/33466906
+
 
 
 ```
