@@ -51,7 +51,10 @@ Budapest 01/19/2020 - 01/20/2020  2days
 ```
 Python
 
-Apex now uses Python 3.7.5 and pip 19.3.1. Please make sure to have these versions available and installed on your machine. Can verify by typing python3 -V and pip3 -V. If using MacOS then do not remove/change the default Python version installed on your machine and rather add Python3. This site has good info on how to properly setup and install Python3 on a Mac:
+Can verify by typing python3 -V and pip3 -V. 
+If using MacOS then do not remove/change the default Python version installed on your machine 
+and rather add Python3. This site has good info on how to properly setup and install Python3 
+on a Mac:
 ```
 https://opensource.com/article/19/5/python-3-default-mac.
 
