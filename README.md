@@ -53,7 +53,7 @@ Budapest 01/19/2020 - 01/20/2020  2days
 Alfred
 ```
 > https://www.alfredapp.com/
-
+> https://www.spectacleapp.com/
 
 ```
 Python
