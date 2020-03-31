@@ -66,6 +66,10 @@ Alfred
 
 > https://brew.sh/
 
+```
+Install conda via brew
+```
+> https://medium.com/ayuth/install-anaconda-on-macos-with-homebrew-c94437d63a37
 
 
 
