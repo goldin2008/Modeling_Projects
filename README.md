@@ -7,7 +7,6 @@ Paris 12/29/2019 - 01/04/2020  7days
 Germany
 Leipzig 01/05/2020  1day
 Berlin 01/06/2020- 01/07/2020 2day
-
 Austria
 Vienna 01/08/2020-01/09/2020 2day
 
