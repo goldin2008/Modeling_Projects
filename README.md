@@ -1,4 +1,53 @@
 # modeling-project
+
+>GitHub Tricks: Upload Images & Live Demos
+
+http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
+
+>Jupyter Lab project setup
+
+https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/
+
+>Neural Network Projects with Python
+
+https://github.com/PacktPublishing/Neural-Network-Projects-with-Python
+
+>Confusion Matrix
+
+https://www.python-course.eu/confusion_matrix.php
+
+>How to delete condo envs
+
+```
+$ conda info --envs
+$ conda remove --name modeling_project --all
+```
+
+>How to create project
+
+```
+$ conda create -n modeling_project python=3.6 jupyterlab pandas scikit-learn seaborn
+$ conda activate modeling_project
+
+$ conda install -c conda-forge pyscaffold
+$ putup modeling_project
+
+$ cd modeling_project
+
+$ python setup.py develop
+```
+
+>How to check code quality in jupyter notebook
+
+```
+https://github.com/mattijn/pycodestyle_magicv
+```
+
+>Python Programming
+
+http://sandbox.mc.edu/~bennet/python/code/
+
+
 ```
 Travel
 
@@ -422,44 +471,3 @@ Multichannel CNN Model for Text Classification
 
 After loading dataset, I fit a Keras Tokenizer on the training dataset. I will use this tokenizer to both define the vocabulary for the Embedding layer and encode the instances as integers.
 ```
-
->GitHub Tricks: Upload Images & Live Demos
-
-http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
-
->Jupyter Lab project setup
-
-https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/
-
->Neural Network Projects with Python
-
-https://github.com/PacktPublishing/Neural-Network-Projects-with-Python
-
->Confusion Matrix
-
-https://www.python-course.eu/confusion_matrix.php
-
->How to delete condo envs
-
-```
-$ conda info --envs
-$ conda remove --name modeling_project --all
-```
-
->How to create project
-
-```
-$ conda create -n modeling_project python=3.6 jupyterlab pandas scikit-learn seaborn
-$ conda activate modeling_project
-
-$ conda install -c conda-forge pyscaffold
-$ putup modeling_project
-
-$ cd modeling_project
-
-$ python setup.py develop
-```
-
->Python Programming
-
-http://sandbox.mc.edu/~bennet/python/code/
