@@ -1,5 +1,8 @@
 ## Credit Card Transactions Fraud Detection
 
+> https://www.cnblogs.com/bonelee/p/9089984.html
+
+
 #### Credit Fraud || Dealing with Imbalanced Datasets
 
 > https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
