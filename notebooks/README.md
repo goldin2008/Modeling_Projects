@@ -1,4 +1,4 @@
-## anomaly detection, outlier analysis, outlier detection
+## Anomaly Detection, Outlier Analysis, Outlier Detection
 
 > https://zhuanlan.zhihu.com/p/37132428
 
