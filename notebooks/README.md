@@ -1,3 +1,7 @@
+## anomaly detection, outlier analysis, outlier detection
+
+> https://zhuanlan.zhihu.com/p/37132428
+
 ## Credit Card Transactions Fraud Detection
 
 > https://www.cnblogs.com/bonelee/p/9089984.html
