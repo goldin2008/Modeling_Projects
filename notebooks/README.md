@@ -2,6 +2,8 @@
 
 > https://zhuanlan.zhihu.com/p/37132428
 
+> https://github.com/waterfeeling/awesome-fraud-detection-literature/wiki/List-of-Papers
+
 ## Credit Card Transactions Fraud Detection
 
 > https://www.cnblogs.com/bonelee/p/9089984.html
