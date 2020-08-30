@@ -26,6 +26,9 @@
 
 > https://www.cnblogs.com/bjwu/p/8977141.html
 
+> https://www.cnblogs.com/shine-lee/p/11779514.html
+
+
 ### 归一化和标准化的区别：
 归一化（normalization）：归一化是将样本的特征值转换到同一量纲下，把数据映射到[0,1]或者[-1, 1]区间内。
 
