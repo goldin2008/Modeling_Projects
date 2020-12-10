@@ -45,9 +45,9 @@ brew install jupyter
 ```
 jupyter nbconvert \
     --to=script \
-    --output-dir=/tmp/converted-notebooks/ \
-    ./notebooks/*.ipynb
-pylint /tmp/converted-notebooks/*.py
+    --output-dir=./tmp/converted-notebooks/ \
+    ./todo.ipynb
+pylint ./tmp/converted-notebooks/todo.py
 ```
 > https://stackoverflow.com/questions/50358327/using-pylint-in-ipython-jupyter-notebook
 
