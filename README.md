@@ -39,6 +39,10 @@ $ python setup.py develop
 
 >How to check code quality in jupyter notebook
 ```
+brew install jupyter
+```
+
+```
 jupyter nbconvert \
     --to=script \
     --output-dir=/tmp/converted-notebooks/ \
