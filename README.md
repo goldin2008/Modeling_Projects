@@ -38,6 +38,18 @@ $ python setup.py develop
 ```
 
 >How to check code quality in jupyter notebook
+```
+brew install jupyter
+```
+
+```
+jupyter nbconvert \
+    --to=script \
+    --output-dir=./tmp/converted-notebooks/ \
+    ./todo.ipynb
+pylint ./tmp/converted-notebooks/todo.py
+```
+> https://stackoverflow.com/questions/50358327/using-pylint-in-ipython-jupyter-notebook
 
 ```
 https://github.com/mattijn/pycodestyle_magicv
